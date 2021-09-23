@@ -1,4 +1,4 @@
-package com.momen.expandabletextview
+package com.momen7899.expandabletextview
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,4 +1,4 @@
-package com.momen.expandabletextview
+package com.momen7899.expandabletextview
 
 import org.junit.Test
 
